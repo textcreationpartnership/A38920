@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact journal of the engagement between the English fleet and the French from May the 18th to the 25th, 1692.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38920</idno>
+            <idno type="STC">Wing E3645</idno>
+            <idno type="STC">ESTC R36398</idno>
+            <idno type="EEBO-CITATION">15687168</idno>
+            <idno type="OCLC">ocm 15687168</idno>
+            <idno type="VID">104371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact journal of the engagement between the English fleet and the French from May the 18th to the 25th, 1692.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>La Hogue, Battle of, France, 1692.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>France --  History, Military --  1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:104371:1" rendition="simple:additions"/>
+            <head>An Exact JOURNAL OF THE ENGAGEMENT Between the <hi>Engliſh Fleet and the French</hi> From <hi>May</hi> the 18<hi rend="sup">th</hi>. to the 25<hi rend="sup">th</hi>. 1692.</head>
+            <p>
+               <hi>May</hi> 18. ABOUT nine a Clock this Morn<g ref="char:EOLhyphen"/>ing, the Admiral, with the whole Fleet weighed, being all at An<g ref="char:EOLhyphen"/>chor off <hi>Dunnoſe</hi> with the Wind at W. S. W. and S. W. by W. ſtood over to the French Coaſt all night, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>May</hi> 19. This Morning at day-light, the Wind W. S. W. and W. by S. we diſ<g ref="char:EOLhyphen"/>covered the French Fleet a great way to Windward, ſignal was made for our draw<g ref="char:EOLhyphen"/>ing into the Line of Battel, and about nine a Clock the French began to bear down, <hi>Tourville</hi> himſelf, with a great deal of Bravery ſingled out our Admiral; and was received with more than equal Cou<g ref="char:EOLhyphen"/>rage: At Eleven, the French being got pretty near, <hi>Tourville</hi> himſelf being brought to within leſs that Muſquet Shot of Ad<g ref="char:EOLhyphen"/>miral <hi>Ruſſel,</hi> which was admired in general both by the Engliſh and Dutch, that the French Admiral, being ſo ſmall a Fleet, ſhould ſo Reſolutely attack outs, being ſo much Superior to his in number, for the French Line ſpreading but little farther a Head or a Stern than the Red Squadron, we could not well conſtrue the meaning of their vigorouſly falling upon that Squa<g ref="char:EOLhyphen"/>dron, the Dutch and the Blue having little or no ſhare in the Fight, but in leſs than a quarter of an Hours time there was no<g ref="char:EOLhyphen"/>thing to be ſeen but a Terrible Smoak and Fire that darkened all the Air, ſo that none could perceive a Cables length from their Ships, which was accompanied with a continual Thunder of Guns for four Hours, the Firing being ſmart on both ſides, from Eleven till Three; but the French Admiral finding the Engliſh too hot for him, and his Main Top Sail Yard being Shot, about Five a clock he got his Main Tack on Board, and it proving little Wind he towed off, and endeavoured to get out of the way and reach of our Miſchievous Engliſh Guns: His Example was followed by the reſt of the French Fleet, but about Six or Seven of the Clock the Wind ſhifted to the Eaſtward, they fell in amongſt the Blue, ſome of which Squadron, together with Sir <hi>Cloudſley Shovell,</hi> had a very hot diſpute with them till near Eleven a Clock, the French fighting their way through, and it being but little Wind, we ſtood till night after them, and at Ten a Clock at night we ſaw ſome Ships Blown up.</p>
+            <p>
+               <hi>May</hi> 20. All laſt night we continued the Chaſe, and the Wind this Morning having ſhifted to the Weſtward, the French were again got to the Windward, they Plying and we after them; at Five in the Afternoon they Anchored, and we did the ſame, <hi>Cape de Hogue</hi> bearing W. S. W. about ſeven Leagues diſtant, and a prodi<g ref="char:EOLhyphen"/>gious ſtrong Tide running at Eleven this Night, we weighed and plied to Wind<g ref="char:EOLhyphen"/>ward all night.</p>
+            <p>
+               <hi>May</hi> 21. This Morning part of the French Fleet run in at the Race of <hi>Alderney,</hi> the reſt plying to Windward, and Anchored to the Weſtward of it. Sir <hi>John Aſhby</hi> and ſome of the Engliſh Windward, moſt Ships Anchored after the French; Admiral <hi>Ruſſell</hi> and the Fleet with him Cut, and followed ſome Ships of the French, that drove out of the Race again, their Anchors not being able to bring them up againſt ſo ſtrong a Tide; the Admiral left Sir <hi>Ralph Delavall</hi> with ſome Ships, to deſtroy part of the French Fleet that were run into <hi>Cherburg,</hi> whilſt he himſelf followed others into <hi>La Hogue.</hi>
+            </p>
+            <p>
+               <hi>May</hi> 22. Sir <hi>John Aſhby,</hi> and the Ships with him, not being able to get up with the Ships he chaſed, only one Fire Ship which was taken yeſterday in the Evening, the French having this Morning borne away among the Iſlands of <hi>Alderney, Jerſey</hi>
+               <pb facs="tcp:104371:2" rendition="simple:additions"/>and <hi>Guernſey,</hi> and the Rocks, Sir <hi>John</hi> and the reſt bore away to the Admiral and Sir <hi>Ralph,</hi> with the Fire-Ships and Boats with him (having firſt ſent aſhore a Flag of Truce to give the French warning, to take their Men both Well and Wounded out of their Ships) burnt three of their Ca<g ref="char:EOLhyphen"/>pital Ships, one of them the <hi>Soleil Royal,</hi> the French refuſing to take their Men aſhore, great part of them were Burnt and Blown up.</p>
+            <p>
+               <hi>May</hi> 23. This Morning Sir <hi>John Aſhby,</hi> Sir <hi>Ralph Delaval</hi> and the <hi>Dutch,</hi> Joyned the General and the Ships with him, who Anchored off <hi>La Hogue;</hi> and there all the reſt of the <hi>French</hi> Men of War that were drove out of the Race, were cloſe into the Shoar, which the Admiral deſign'd to Burn and Deſtroy, having ordered Vice Admiral <hi>Rooke</hi> with a Detachment of ſome of the Third and Fourth Rates to go in with ſix Fire ſhips, and all the Pinnaces and Long boats of the Fleet. About Six a Clock they were got into the Shore, and our Ships Fired at their Ships and Forts that were there, but could not get in; ſo the Boats attempted to tow in the Fire-ſhips, but finding the buſi<g ref="char:EOLhyphen"/>neſs might be done without burning the fire ſhips, the Boats only went in, and about Nine a Clock ſet on Fire the firſt Ship, which was by it ſelf, and ſet on Fire <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Five more that Night, which made the moſt extraordinary Bonfire that ever was ſeen, five of them being three Deck'd Ships, and it being in the Night, was ſeen to all the Advantage imaginable, the Smoak and Fire, together with the Guns Firing and Ships Blowing up, being Pro<g ref="char:EOLhyphen"/>digious: The Earl of <hi>Danby</hi> ſignaliz'd him<g ref="char:EOLhyphen"/>ſelf by going in the Headmoſt Boat, and going on Board three of their biggeſt Ships and Burning them.</p>
+            <p>
+               <hi>May</hi> 24. All this day the Boats continu<g ref="char:EOLhyphen"/>ed to Burn the <hi>French</hi> Ships in the Shore, and Burn'd Eight Men of War more, of which there were not above four ſmall Ships of Forty or Fifty Guns, all the reſt of a Hundred or Eighty Guns, beſides a great many Merchant Ships and ſmall Craft, and their Magazine of Powder Blowing up a Shore. There never was ſo many fine Ships deſtroyed at one time, nor ſo terrible a Light for People to be<g ref="char:EOLhyphen"/>hold on their own Coaſt: And about Twelve a Clock at Noon, the Vice-Ad<g ref="char:EOLhyphen"/>miral with all the Ships and Boats came off again into the Fleet, having left all the Enemies Ships on a Flame, and a great Army to be Spectators, there being drawn down about Thirty thouſand Men, Commanded by <hi>Belfont,</hi> King <hi>James</hi> be<g ref="char:EOLhyphen"/>ing there to ſee all the Tranſactions.</p>
+            <p>In all we loſt not one Man of War; ſome Fire ſhips were burn'd without do<g ref="char:EOLhyphen"/>ing Execution, ſome by Accident; and we cannot find that any Officers are Kill'd beſides Rear-Admiral <hi>Carter</hi> and Colonel <hi>Haſtings,</hi> Captain <hi>Graydon</hi> is ſaid to be Dead, but of that no Certainty.</p>
+            <p>The <hi>French</hi> have loſt <hi>Gabaret</hi> their Ad<g ref="char:EOLhyphen"/>miral of the <hi>Blew,</hi> Ship and all in the Fight Burn'd, and one Captain <hi>Decombe,</hi> who was Captain of the <hi>Illuſtrious,</hi> a Ship of Seventy Guns Burnt: <hi>Tourville</hi>'s Nephew is thought to be Killed alſo; what Damage they im<g ref="char:EOLhyphen"/>mediately received in the Fight, is not as yet known: But upon the whole matter, there never was ſo great a Victory obtained at Sea in ſo ſhort a time, and I hope it is a preſage for a future Succeſs.</p>
+            <p>
+               <hi>May</hi> 25. This Morning the Wind at Eaſt and by South, and <hi>E. S. E.</hi> the Ad<g ref="char:EOLhyphen"/>miral and the Fleet Sailed and Steered a<g ref="char:EOLhyphen"/>way <hi>N. E.</hi> by <hi>N.</hi> and <hi>N.</hi> by <hi>E.</hi> for <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>TRuth brought to Light: Or the Hiſtory of the Firſt <hi>14</hi> Years of King <hi>James I.</hi> In Four Parts. <hi>I.</hi> The happy State of <hi>England</hi> at His Majeſty's Entrance; The Corruption of it afterwards. With the Riſe of particular Favourites, and the Diviſions between this and other States abroad. <hi>II.</hi> The Divorce be<g ref="char:EOLhyphen"/>twixt the Lady <hi>Frances Howard</hi> and <hi>Robert</hi> Earl of <hi>Eſſex,</hi> before the King's Delegates, Authoriſed under the King's Broad Seal: As alſo the Arraignment of Sir <hi>Jer. Ellis,</hi> Lieu<g ref="char:EOLhyphen"/>tenant of the <hi>Tower, &amp;c.</hi> about the Murther of Sir <hi>Tho. Overbury,</hi> with all Proceedings thereupon, and the King's Gracious Pardon and Favour to the Counteſs. <hi>III.</hi> A Declaration of His Majeſty's Revenue ſince he came to the Crown of <hi>England;</hi> With the Annual Iſſues, Gifts, Penſions, and extraordinary Disburſt<g ref="char:EOLhyphen"/>ments. <hi>IV.</hi> The Commiſſions and Warrants for the burning of two Hereticks, newly revi<g ref="char:EOLhyphen"/>ved, with two Pardons, one for <hi>Theophilus Higgins,</hi> the other for Sir <hi>Euſtace Hart.</hi> Sold by <hi>Richard Baldwin.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford</hi> Arms in <hi>Warwick-Lane,</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
